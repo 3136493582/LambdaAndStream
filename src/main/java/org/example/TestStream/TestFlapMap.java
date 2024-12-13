@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 /**
  * 扁平化映射  降维
- * @构建stream的三种方法
+ * 构建stream的三种方法
  * @1、collection的子类可以直接 集合变量名.stream构建
  * @2、数组构建：Array.Stream(数组变量)
  * @3、对象构建：Stream.of(对象)

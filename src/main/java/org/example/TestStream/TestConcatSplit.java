@@ -2,6 +2,9 @@ package org.example.TestStream;
 
 import java.util.stream.Stream;
 
+/**
+ * Stream流的拼接与截取
+ */
 public class TestConcatSplit {
     public static void main(String[] args) {
         Stream<String> a = Stream.of("a", "b", "c");
