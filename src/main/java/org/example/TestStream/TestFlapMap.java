@@ -5,11 +5,11 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /**
- * 扁平化映射  降维
- * 构建stream的三种方法
- * @1、collection的子类可以直接 集合变量名.stream构建
- * @2、数组构建：Array.Stream(数组变量)
- * @3、对象构建：Stream.of(对象)
+ * h2>扁平化映射  降维<</h2>
+ * <p>构建stream的三种方法</p>
+ * <p>1、collection的子类可以直接 集合变量名.stream构建</p>
+ * <p>2、数组构建：Array.Stream(数组变量)</p>
+ * <p>3、对象构建：Stream.of(对象)</p>
  */
 public class TestFlapMap {
     //水果类
